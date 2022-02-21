@@ -173,8 +173,8 @@ h6 { font-size: 16px;}
 	display: block;
 	margin:0 auto;
 
-	height: 200px;
-	width: 200px;
+	height: 385px;
+	width: 235px;
 	object-fit: cover;
 	border:2px solid var(--borderColor);
 }
@@ -242,13 +242,14 @@ h6 { font-size: 16px;}
 #preview-shadow{
 	background-color: var(--previewShadow);
 	max-width: 300px;
-	height: 180px;
+	height: 300px;
 	padding-left: 30px;
 	padding-top: 30px;
 }
 
 #preview{
 	width: 300px;
+	height: 240px;
 	border:1.5px solid #17a2b8;
 	background-color: var(--previewBg);
 	padding:15px;
